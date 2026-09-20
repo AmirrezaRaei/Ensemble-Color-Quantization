@@ -1,0 +1,12 @@
+torch
+sewar
+brisque
+piqa
+lpips
+scikit-image
+scikit-learn
+opencv-python
+scipy
+matplotlib
+Pillow
+numpy
