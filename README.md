@@ -16,6 +16,6 @@ The easiest way to explore and run the ensemble pipeline is via GitHub Codespace
 
 Alternatively, to run the pipeline locally on your machine:
 ```bash
-git clone [https://github.com/YourUsername/Ensemble-Color-Quantization.git](https://github.com/AmirrezaRaei/Ensemble-Color-Quantization.git)
+git clone [https://github.com/AmirrezaRaei/Ensemble-Color-Quantization.git](https://github.com/AmirrezaRaei/Ensemble-Color-Quantization.git)
 cd Ensemble-Color-Quantization
 pip install -r requirements.txt
